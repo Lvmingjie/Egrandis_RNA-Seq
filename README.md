@@ -9,3 +9,10 @@ AS_impact_predict.py
 
 This software is for prediction of putative impact of AS which parse by ASTALAVISTA.
 
+Extract_information_rMATS.py
+
+Extract and merge results of rMATS from multiple samples
+
+DAS_and_cluster_rMATS.R
+
+DAS analysis and clustering analysis of DAS events
